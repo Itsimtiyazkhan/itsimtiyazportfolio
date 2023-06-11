@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/itsimtiyazportfolio/static/css/main.b96362d1.css",
+    "main.js": "/itsimtiyazportfolio/static/js/main.49e52b7f.js",
+    "static/media/profile2.JPG": "/itsimtiyazportfolio/static/media/profile2.8904ab106aa554431c09.JPG",
+    "static/media/Imti-resumeCv.pdf": "/itsimtiyazportfolio/static/media/Imti-resumeCv.4842e8e1ffc7adde661a.pdf",
+    "static/media/profile4.jpg": "/itsimtiyazportfolio/static/media/profile4.e31b46351085ddfdab91.jpg",
+    "static/media/rashid.jpg": "/itsimtiyazportfolio/static/media/rashid.d8a90d6685ad909898ed.jpg",
+    "static/media/work2.jpg": "/itsimtiyazportfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/itsimtiyazportfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/itsimtiyazportfolio/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/itsimtiyazportfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/itsimtiyazportfolio/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/javd.png": "/itsimtiyazportfolio/static/media/javd.dba88179e307f96b4d8e.png",
+    "index.html": "/itsimtiyazportfolio/index.html",
+    "main.b96362d1.css.map": "/itsimtiyazportfolio/static/css/main.b96362d1.css.map",
+    "main.49e52b7f.js.map": "/itsimtiyazportfolio/static/js/main.49e52b7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96362d1.css",
+    "static/js/main.49e52b7f.js"
+  ]
+}
